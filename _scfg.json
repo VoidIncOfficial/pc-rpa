@@ -1,0 +1,153 @@
+{
+    "name": "The Doomed Herritage",
+    "description": "Фентези-RP сервер с уникальным ботом от меня.",
+    "id": "951601225890148402",
+    "channels": [
+        {
+            "name": "Мировое древо",
+            "image": "https://cdn.discordapp.com/attachments/807727887070527508/1003394950781751406/1626698607_26-kartinkin-com-p-drevo-art-art-krasivo-27.jpg",
+            "locationStack": [
+                "Окраины"
+            ],
+            "city": "Mavernos",
+            "description": "Это что-то типа Иггдрасиля из мира TDH",
+            "id": 991049536560570398
+        }
+    ],
+    "configuration": {
+        "weather": [ 
+            {
+                "legacyEmoji": "☀",
+                "emoji": "☀️",
+                "name": "Ясная погода",
+                "image": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/clear-day.svg"
+            },
+            {
+                "legacyEmoji": "🌧",
+                "emoji": "🌧️",
+                "name": "Дождь",
+                "image": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/drizzle.svg"
+            },
+            {
+                "legacyEmoji": "⛈",
+                "emoji": "⛈️",
+                "name": "Гром",
+                "image": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/thunderstorms-extreme.svg"
+            },
+            {
+                "legacyEmoji": "🌫",
+                "emoji": "🌫️",
+                "name": "Туманность",
+                "image": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/fog.svg"
+            },
+            {
+                "legacyEmoji": "❄",
+                "emoji": "❄️",
+                "name": "Прохлада",
+                "image": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/thermometer-colder.svg"
+            },
+            {
+                "legacyEmoji": "☁",
+                "emoji": "☁️",
+                "name": "Облачность",
+                "image": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/overcast-day.svg"
+            },
+            {
+                "legacyEmoji": "🌪",
+                "emoji": "🌪️",
+                "name": "Ураган",
+                "image": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/tornado.svg"
+            },
+            {
+                "legacyEmoji": "🏜",
+                "emoji": "🏜️",
+                "name": "Песчаная буря",
+                "image": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/dust.svg"
+            },
+            {
+                "legacyEmoji": "🌬",
+                "emoji": "🌬️",
+                "name": "Ветряно",
+                "image": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/wind.svg"
+            },
+            {
+                "legacyEmoji": "🌡",
+                "emoji": "🌡️",
+                "name": "Жара",
+                "image": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/thermometer-warmer.svg"
+            },
+            {
+                "legacyEmoji": "🌨",
+                "emoji": "🌨️",
+                "name": "Град",
+                "image": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/sleet.svg"
+            }
+        ]
+    },
+    "specialChannels": [
+        {
+            "id": "1003744268428525678",
+            "type": "weather"
+        },
+        {
+            "id": "1003744599136800888",
+            "type": "weather"
+        },
+        {
+            "id": "1003744782209798194",
+            "type": "weather"
+        },
+        {
+            "id": "1003745203829608579",
+            "type": "weather"
+        },
+        {
+            "id": "1003745630772019260",
+            "type": "weather"
+        },
+        {
+            "id": "1003745720349769798",
+            "type": "weather"
+        },
+        {
+            "id": "1003745783515975741",
+            "type": "weather"
+        },
+        {
+            "id": "1003745860322070592",
+            "type": "weather"
+        },
+        {
+            "id": "1003745948129837076",
+            "type": "weather"
+        },
+        {
+            "id": "1003746011249909770",
+            "type": "weather"
+        },
+        {
+            "id": "1003746087175209020",
+            "type": "weather"
+        },
+        {
+            "id": "1003746201293815828",
+            "type": "weather"
+        },
+        {
+            "id": "1003746861422743562",
+            "type": "weather"
+        },
+        {
+            "id": "1003746941584277615",
+            "type": "weather"
+        }
+    ],
+    "players": [
+        {
+            "name": "Игнат Меладзе",
+            "short": "Колдунчик",
+            "type": "Человек",
+            "id": 394601924881809408
+        }
+    ]
+}
